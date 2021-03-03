@@ -618,7 +618,8 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
-    Collab: 0
+    Collab: 1
+    UNet: 1
   luminIcon:
     m_Name: 
     m_ModelFolderPath: 
@@ -631,10 +632,10 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: d9770129-c253-45d7-9871-d8fa2137bc3f
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: Durak Game
+  organizationId: hasibrahman1997
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
